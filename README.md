@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System
 
-![Movie Recommendation picture](asset\pic1.jpg)
+![Movie Recommendation picture](asset/pic1.jpg)
 
 This is a content-based movie recommendation system built using Python and machine learning techniques. It recommends movies based on the textual similarity of movie overviews using TF-IDF and sigmoid kernel.
 
